@@ -10,7 +10,7 @@ Follow link to view page:
 https://nedflowers.github.io/UFOs/
 
 
-### Filtering Table
+## Filtering Table
 ### Home Page
 Re-load index page by clicking the top-left button in the navigation bar. 
 
