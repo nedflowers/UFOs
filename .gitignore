@@ -25,3 +25,5 @@ hs_err_pid*
 #######
 .DS_Store
 /app2.js
+*app2.js
+.app2.js
